@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/supriyo_malakar03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/supriya-malakar-a43168325?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-malakar-a43168325?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:supriyamalakarind@gmail.com)
 
 # 💻 Tech Stack:
